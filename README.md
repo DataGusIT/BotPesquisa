@@ -3,7 +3,7 @@
 
 > Automação em Python que preenche formulários Google Forms de forma massiva e realista, simulando respostas humanas para geração de dados de teste para dashboards e análises.
 
-[![Status](https://img-shields.io/badge/Status-Funcional-success)](https://github.com/seu-usuario/selenium-form-bot)
+[![Status](https://img.shields.io/badge/Status-Concluído-success)](https://github.com/seu-usuario/powerbi-rh-dashboard)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB)](https://www.python.org/)
 [![Selenium](https://img.shields.io/badge/Selenium-Web_Automation-43B02A)](https://www.selenium.dev/)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
